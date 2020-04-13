@@ -80,7 +80,7 @@ The above tree describes all the files as part of this project.
    - Run the jupyter notebook
    
  ## Takeaways and final thoughts
- The InceptionV3 model achieves an accuracy of 80% after 20 epochs. The accuracy can be improved in various ways like increasing the number of epochs, trying other pre-trained models, etc. The next step for me is to create a web app that takes an image as an input, then gives the result as a breed of dog. I have also written an accompanying Medium Blog.
+ The InceptionV3 model achieves an accuracy of 80% after 20 epochs. The accuracy can be improved in various ways like increasing the number of epochs, trying other pre-trained models, etc. The next step for me is to create a web app that takes an image as an input, then gives the result as a breed of dog. I have also written an accompanying [Medium Blog](https://medium.com/@deepchatterjee./dog-breed-classifier-d2492a1d52b1).
  
  ## Acknowledgement and Licensing terms
  I am thankful to Udacity for providing such wonderful tutorials. All the datasets are provided by Udacity. Kindly refer to Udacity [Terms of Service](https://www.udacity.com/legal) for further information.
